@@ -1,5 +1,2 @@
-/*! main.css - Minor adjustments to special elements
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
-
-body { padding-bottom: 70px; }
-
+body { padding-top: 100px; }
+h1 { color: #000;}
