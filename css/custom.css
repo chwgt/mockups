@@ -9,6 +9,20 @@ body {
 	color: #000000;
 	list-style:none;
 }
+.issue-number {
+	background-color: black;
+	color: white;
+}
+.navbar-brand {
+	font-weight: bold;
+	color: white;
+	font-family: 'PT Sans', Helvetica, sans-serif;
+}
+.navbar-brand a:link a:visited a:hover {
+	font-weight: bold;
+	color: white;
+	font-family: 'PT Sans', Helvetica, sans-serif;
+}
 
 h3 {
 	font-family: 'PT Sans';
@@ -17,9 +31,17 @@ h3 {
 
 h1 { 
 	color: #000000;
-	font-family: 'PT Sans';
+	font-family: 'PT Sans', Helvetica, sans-serif;
 	font-weight: bold;
 }
+h1:link {
+    color: black;
+}
+h2 {
+	font-family: 'PT Sans', Helvetica, sans-serif;
+	font-weight:bold;
+}
+
 nav {
 	font-family: 'PT Sans', Helvetica, sans-serif;
 }
